@@ -1,2 +1,6 @@
+[![CircleCI](https://circleci.com/gh/beardedsamwise/CalculatorApp/tree/main.svg?style=svg)](https://circleci.com/gh/beardedsamwise/CalculatorApp/tree/main)
 # CalculatorApp
-Exercise from Python CI Course at Real Python: https://realpython.com/courses/python-continuous-integration/
+A combination of exercises from Real Python deploying an API with Continuous Integration using Circle CI. 
+
+- https://realpython.com/fastapi-python-web-apis/
+- https://realpython.com/courses/python-continuous-integration/
